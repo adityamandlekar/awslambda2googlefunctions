@@ -9,7 +9,7 @@
 
     How to:
 
-      > cat lambda_function.js | rewrite-js lambda2functions.js > google_function.js
+      > cat lambda_function.js | rewrite-js awslambda2googlefunctions.js > google_function.js
 */
 
 
