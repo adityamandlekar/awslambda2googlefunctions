@@ -14,7 +14,7 @@ You can generate the Google Functions output - given your AWS Lambda function in
 
 `cat lambda_function.js | rewrite-js awslambda2googlefunctions.js > google_function.js`
 
-You can have a look at some examples [here](../tree/master/examples/).
+You can have a look at some examples [here](examples/).
 
 # Notes
 
